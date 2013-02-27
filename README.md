@@ -4,4 +4,4 @@ http://pipe2.sourceforge.net/
 
 ## Examples
 
-deadlock_1.xml - illustrate the classic dining philosopher's problem.  left and right fork grabbed separately. 
+**deadlock_1.xml** - illustrate the classic dining philosopher's problem.  left and right fork grabbed separately. 
